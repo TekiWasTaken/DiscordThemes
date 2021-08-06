@@ -562,12 +562,12 @@ The 2 items above are not owned by me, They go to there respected owners
 	}
 	#app-mount .typeWindows-1za-n7:after {
 		content: "Jebać Lucka";
-		color: rgb(255,70,114,0.3);
+		color: rgb(255,70,114,0.9);
 		font-weight: 500;
 
 		position: absolute;
 		top: 8px;
-		left: 43.2%;
+		left: 50%;
 	}
 
 	#app-mount .wordmark-2iDDfm {top: 3.3px;}
