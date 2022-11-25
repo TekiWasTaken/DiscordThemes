@@ -33,14 +33,16 @@ The 2 items above are not owned by me, They go to there respected owners
 	
 	/* removing backgrounds */
 
+        
+
 	/* Guild and Top bar transparency */
 	.theme-dark .wrapper-1_HaEi {
 		background:transparent;
 		background-image: var(--transparency-1);
 	}
 	
-	/* transparency for channels and members list and private channels and left side of settings*/
-	.container-1NXEtd, .privateChannels-oVe7HL, .app-3xd6d0 .standardSidebarView-E9Pc3j, .app-3xd6d0 .container-2cd8Mz {
+	/* transparency for channels and members list and private channels and left side of settings plus private call*/
+	.container-1NXEtd, .privateChannels-oVe7HL, .app-3xd6d0 .standardSidebarView-E9Pc3j, .app-3xd6d0 .container-2cd8Mz .wrapper-1gVUIN.normal-qRirv5 {
 		background: transparent;
 		background-image: var(--transparency-2);
 	}
@@ -199,7 +201,7 @@ The 2 items above are not owned by me, They go to there respected owners
 			/*Voice*/
 			#app-mount .containerDefault--pIXnN .modeConnected-3IsKId div.content-1x5b-n {width: 100%; background-color: var(--secondary2-colour);}
 			#app-mount .containerDefault--pIXnN .modeLocked-25wLHj div.content-1x5b-n {background-color: var(--primary3-colour);}
-
+                        
 				/*VC Info*/
 				#app-mount .panels-j1Uci_ {background-color: transparent;}
 				#app-mount .container-1giJp5 {background-color: var(--secondary3-colour);}
