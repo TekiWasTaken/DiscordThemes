@@ -1,0 +1,38 @@
+/**
+ * @name Justice4Billy
+ * @author Teki
+ * @version 0.5
+ * @description Modified Version of VaporousCreepers theme customised for Nostalgia
+ * @source https://github.com/VaporousCreeper/BetterDiscord-ThemesAndPlugins/tree/master/Themes/GGO_Kirito
+ */
+
+@import url('https://raw.githack.com/Ruben7173/Ruben7173.github.io/master/BetterDiscord-Themes/Modules/transparency2.css');
+@import url('https://raw.githack.com/TekiWasTaken/DiscordThemes/main/main/Themes/qNostalgiaq/core.css');
+
+:root{
+    --background: url('https://i.imgur.com/IvyUrdb.jpg');
+    --activetext-colour: white;
+
+    --primary1-colour: rgba(231,120,64);
+    --primary2-colour: rgba(228,107,52,0.1);
+    --primary3-colour: rgba(228,107,52,0.3);
+
+    --secondary1-colour: rgba(0,0,0,0.5);
+    --secondary2-colour: rgba(228,107,52,0.3);
+    --secondary3-colour: rgba(0,0,0,0.5);
+
+    --transparency-1: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+    --transparency-2: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+    --transparency-3: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+    --transparency-4: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+    --transparency-5: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+}
+  
+/*
+
+  
+Background Img: https://i.imgur.com/IvyUrdb.jpg
+Transparency2 Module: https://raw.githack.com/Ruben7173/Ruben7173.github.io/master/BetterDiscord-Themes/Modules/transparency2.css - By Ruben7173#5048
+
+The 2 items above are not owned by me, They go to there respected owners 
+*/
