@@ -1,0 +1,42 @@
+/**
+ * @name Neutron Modified for n0syla
+ * @version (^._.^)
+ * @description Modified Neutron for n0syla
+ * @author Spectra (Yoinked by _Teki_)
+ * @source https://github.com/xcruxiex/themes
+ * @website https://betterdiscord.app/theme/Neutron
+ */
+@import url("https://raw.githubusercontent.com/TekiWasTaken/DiscordThemes/main/n0syla_cattron/themes-cores/neutron8.css");
+@import url("https://raw.githubusercontent.com/TekiWasTaken/DiscordThemes/main/n0syla_cattron/core/badges.css");
+@import url("https://raw.githubusercontent.com/TekiWasTaken/DiscordThemes/main/n0syla_cattron/core/custom-font.css");
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap'); /* Custom font import link (see fonts.google.com) */
+/*##########################################################################
+
+                 CHANGE VALUES BELOW TO CUSTOMIZE YOU THEME
+
+##########################################################################*/
+:root {
+  /* COLORS */
+  --themeColor1: #731c85; /* Theme's color 1 */
+  --themeColor2: #ED56B1; /* Theme's color 2 */
+
+  /* CUSTOM FONT */
+  --customFont: 'Inter', Inter; /* Custom font, change the name in 'font name here', you must import the font first */
+
+  /* HOME BUTTON */
+  --homeImage: url('https://i.imgur.com/zIeC4Bp.png');/* Home button image, must be a direct link | You can also set it to a gradient, google "css gradient"*/
+  --homeImageSize: cover;/* To cover the button, set to "cover". You can also set it to "100% 100%" but the image will be stretched. Set to "contain" to see the entire image */
+
+  /* BACKGROUND */
+  --backgroundColor: #000000; /* Background color */
+  --backgroundImage: url('https://i.imgur.com/9hA36hu.png'); /* Backround image, must be a direct link | You can also set it to a gradient, google "css gradient"*/
+  --backgroundPosition: center; /* Image position | center, left, right, bottom, top */
+  --backgroundSize: cover; /* To cover the entire app, set to "cover". You can also set it to "100% 100%" but the image will be stretched. Set to "contain" to see the entire image */
+  --backgroundRepeat: no-repeat; /* if you want the image to repeat | Google "css background repeat" */
+  --backgroundBlur: 3px; /* Set to 0 to remove blur | Set to 10px for average blur */
+  --backgroundOpacity: .3; /* 0 is transparent */
+
+  /* CODE BLOCKS */
+  --backgroundCode: rgba(0,0,0,.5);
+  --backgroundName: rgba(0,0,0,.5);
+}
